@@ -1,0 +1,7 @@
+{
+		'samurai':{'points': 50, 'health': 3, 'damage': 1, 'attack_type': 'slash', 'windup_time': 40, 'attack_speed': 12, 'attack_sound': 'audio/attack/slash.wav',\
+		 'speed': 3, 'resistance': 3, 'invincible_time': 15, 'knockback_time': 20, 'attack_radius': 100, 'alert_radius': 400},
+
+		'samurai_2':{'points': 50, 'health': 3, 'damage': 1, 'attack_type': 'slash', 'windup_time': 40, 'attack_speed': 12, 'attack_sound': 'audio/attack/slash.wav',\
+		 'speed': 3, 'resistance': 3, 'invincible_time': 15, 'knockback_time': 20, 'attack_radius': 100, 'alert_radius': 400}
+		}

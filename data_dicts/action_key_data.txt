@@ -1,0 +1,1 @@
+{'left_ctrl': False, 'scroll_up': False, 'scroll_down': False, 'left_click': False, 'right_click': False, 'left': False, 'right': False, 'up': False, 'down': False, 'return': False, 'backspace': False, 'space': False, 'escape': False}

@@ -1,0 +1,10 @@
+{
+		0:	{0: [(self.WIDTH * 4, self.HEIGHT), (pygame.Rect((self.WIDTH, 0), (self.WIDTH * 4, self.HEIGHT * 2)))],
+			1: [(self.WIDTH, self.HEIGHT* 3), (pygame.Rect((0, 0), (self.WIDTH, self.HEIGHT * 3)))],
+			2: [(self.WIDTH, self.HEIGHT * 4), (pygame.Rect((0, self.HEIGHT * 3),(self.WIDTH, self.HEIGHT)))],
+			3: [(self.WIDTH *4, self.HEIGHT * 4), (pygame.Rect((self.WIDTH, self.HEIGHT),(self.WIDTH * 3, self.HEIGHT *3)))]},
+		1:	{0: [(self.WIDTH * 4, self.HEIGHT), (pygame.Rect((self.WIDTH, 0), (self.WIDTH * 4, self.HEIGHT * 2)))],
+			1: [(self.WIDTH, self.HEIGHT* 3), (pygame.Rect((0, 0), (self.WIDTH, self.HEIGHT * 3)))],
+			2: [(self.WIDTH, self.HEIGHT * 4), (pygame.Rect((0, self.HEIGHT * 3),(self.WIDTH, self.HEIGHT)))],
+			3: [(self.WIDTH *4, self.HEIGHT * 4), (pygame.Rect((self.WIDTH, self.HEIGHT),(self.WIDTH * 3, self.HEIGHT *3)))]}
+		}
